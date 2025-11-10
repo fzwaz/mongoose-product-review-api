@@ -30,5 +30,3 @@ It includes two core models — **Product** and **Review** — connected through
 
 ---
 
-**GitHub:** [https://github.com/<your-username>/product-review-schema](https://github.com/<your-username>/product-review-schema)  
-**Video:** [Google Drive Link]  
